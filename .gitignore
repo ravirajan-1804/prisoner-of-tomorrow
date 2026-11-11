@@ -1,0 +1,30 @@
+# Unreal Engine generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.sdf
+
+# Local tooling and other version control
+.diversion/
+.dvignore
+
+# Personal images, not part of the game
+Pictures/
+/*.jpg
+
+# Third-party asset packs (Fab / Marketplace) and re-addable Unreal content.
+# Not redistributable in a public repo - see README.md for the list to install.
+Content/Necropolis/
+Content/Fab/
+Content/FirstPersonArms/
+Content/Essential_Foosteps_SK/
+Content/Footsteps_Volume_02/
+Content/StarterContent/
+Content/Characters/
